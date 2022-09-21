@@ -1,10 +1,10 @@
 body {
   font-family: "Dancing Script", cursive;
-  background-color: black;
+  background-color: rgb(27, 25, 25);
 }
 h1 {
   font-size: 3rem;
-  color: rgb(193, 40, 180);
+  color: rgb(198, 11, 123);
   font-weight: bolder;
 }
 .phone {
@@ -23,13 +23,12 @@ h1 {
   align-items: center;
   margin: auto;
   box-shadow: 0 0 10px rgb(255, 255, 255);
-  /* background: linear-gradient(
+  background: linear-gradient(
     to right bottom,
     rgba(131, 8, 226, 0.51) 10%,
     rgb(226, 31, 5),
     rgba(240, 224, 3, 0.934) 99%
-  ); */
-  background-color: rgb(241, 161, 189);
+  );
   margin-top: 40px;
   position: relative;
   overflow: hidden;
@@ -61,6 +60,7 @@ h1 {
   border-radius: 20px;
   justify-content: center;
   align-items: center;
+  box-shadow: 0 0 4gipx black;
 }
 .rec-1 {
   width: 80px;
